@@ -61,8 +61,8 @@ sudo mn -c
 
 👉 Terminal 1:
 
-cd ~/pox
-./pox.py misc.flow_analyzer
+## cd ~/pox
+## ./pox.py misc.flow_analyzer
 
 
 📸 Screenshot 1: Controller Started
